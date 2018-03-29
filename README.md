@@ -19,7 +19,7 @@ $ bundle install
 Add this to 'app/assets/javascripts/application.js':
 
 ```
-//= require simpleTree/jquery.textileToolbar
+//= require textileToolbar/jquery.textileToolbar
 ```
 
 Add this to 'app/assets/stylesheets/application.css':
