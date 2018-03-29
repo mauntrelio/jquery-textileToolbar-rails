@@ -1,2 +1,2 @@
-require "jquery/simpletree/rails/version"
-require "jquery/simpletree/rails/engine"
+require "jquery/textileToolbar/rails/version"
+require "jquery/textileToolbar/rails/engine"

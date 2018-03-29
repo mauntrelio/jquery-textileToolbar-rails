@@ -1,7 +1,7 @@
 module Jquery
-  module Simpletree
+  module TextileToolbar
     module Rails
-      VERSION = "0.1.3"
+      VERSION = "0.0.1"
     end
   end
 end

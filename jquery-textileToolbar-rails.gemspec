@@ -1,17 +1,17 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'jquery/simpletree/rails/version'
+require 'jquery/textileToolbar/rails/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "jquery-simpletree-rails"
-  spec.version       = Jquery::Simpletree::Rails::VERSION
+  spec.name          = "jquery-textileToolbar-rails"
+  spec.version       = Jquery::TextileToolbar::Rails::VERSION
   spec.authors       = ["Maurizio Manetti"]
   spec.email         = ["maurizio@imanetti.net"]
 
-  spec.homepage      = "https://github.com/mauntrelio/jquery-simpletree-rails"
-  spec.summary       = %q{Use jQuery simpleTree with Rails > 3.1}
-  spec.description   = %q{This gem provides jQuery simpleTree for Rails > 3.1 applications}
+  spec.homepage      = "https://github.com/mauntrelio/jquery-textileToolbar-rails"
+  spec.summary       = %q{Use jQuery textileToolbar with Rails > 3.1}
+  spec.description   = %q{This gem provides jQuery textileToolbar for Rails > 3.1 applications}
 
   spec.license       = "MIT"
 
